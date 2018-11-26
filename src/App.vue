@@ -1,6 +1,6 @@
 <template>
 	<div id="app">
-		COLLAPSE
+		CLLP.SE
 	</div>
 </template>
 
